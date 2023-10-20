@@ -1,0 +1,6 @@
+fastapi==0.104.0
+geopandas==0.13.2
+protobuf==4.24.4
+pyproj==3.6.0
+Requests==2.31.0
+Shapely==2.0.2
